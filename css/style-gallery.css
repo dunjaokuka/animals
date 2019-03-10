@@ -1,0 +1,94 @@
+.title{
+  background-color: #0eaf1b;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 110px;
+}
+
+.menu{
+  background-color: #0eaf1b;
+  color: white !important;
+}
+
+.menu ul li {
+  display: inline;
+  margin: 50px;
+  font-size: 20px;
+  color: white !important;
+}
+.menu ul li a{
+  color: white !important;
+}
+
+.register {
+  position: relative;
+  font-size: 40px;
+  color: white;
+}
+
+button{
+  font-size: 35px;
+  margin-top: 28px;
+  margin-left: 70px;
+  margin-bottom: 100px;
+}
+input {
+  font-size: 26px;
+}
+
+p{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.total-donate-is{
+  display: inline-block;
+}
+.donate {
+  color: white;
+  font-size: 20px;
+}
+.total-donate{
+  font-size: 35px;
+  color: green;
+  background-color: white;
+  display: inline-block;
+}
+.slick-item{
+  color: white;
+}
+body{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #25d2239c;
+}
+/* TESTA SADAS */
+.wrapper{
+  width:50%;
+  padding-top: 20px;
+  text-align:center;
+  margin: 0 auto;
+}
+h2{
+  font-family:sans-serif;
+  color:#fff;
+}
+.carousel{
+  width:90%;
+  margin:0px auto;
+}
+.slick-slide{
+  margin:10px;
+}
+.slick-slide img{
+  width:100%;
+  border: 2px solid #fff;
+  height: auto;
+}
+
+.slick-prev {
+  left: -90px !important;
+  z-index:999;
+}

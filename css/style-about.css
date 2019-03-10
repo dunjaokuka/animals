@@ -1,0 +1,70 @@
+.title{
+  background-color: #0eaf1b;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 110px;
+}
+
+.menu{
+  background-color: #0eaf1b;
+  color: white !important;
+}
+
+.menu ul li {
+  display: inline;
+  margin: 50px;
+  font-size: 20px;
+  color: white !important;
+}
+.menu ul li a{
+  color: white !important;
+}
+
+.register {
+  position: relative;
+  font-size: 40px;
+  color: white;
+}
+
+button{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 35px;
+  display: block;
+}
+input {
+  font-size: 26px;
+}
+
+p{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+p.about-us{
+  color:black;
+  text-align: center;
+  font-size: 60px;
+}
+.total-donate-is{
+  display: inline-block;
+}
+.donate {
+  color: white;
+  font-size: 20px;
+}
+.total-donate{
+  font-size: 35px;
+  color: green;
+  background-color: white;
+  display: inline-block;
+}
+.slick-item{
+  color: white;
+}
+body{
+  background-image: url(http://species-in-pieces.com/img/og-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
